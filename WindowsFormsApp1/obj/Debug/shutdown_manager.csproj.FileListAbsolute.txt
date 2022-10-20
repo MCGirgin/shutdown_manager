@@ -1,0 +1,10 @@
+C:\Users\nmgir\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nmgir\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nmgir\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nmgir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\shutdown_manager.csproj.AssemblyReference.cache
+C:\Users\nmgir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nmgir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nmgir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\shutdown_manager.csproj.GenerateResource.cache
+C:\Users\nmgir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\shutdown_manager.csproj.CoreCompileInputs.cache
+C:\Users\nmgir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nmgir\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
